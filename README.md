@@ -9,13 +9,13 @@ Une fois ces 5 cartes choisies, le premier joueur joue sa première carte, le de
 
 Au cours de la partie, des interactions avec les éléments de l’usine vont influer sur les joueurs, leur direction, position sur le plateau, ou encore sur leur point de vie et point de dégât.
 Les éléments de la fabrique qu’un robot peut rencontrer sont :
--	Case Spirale : change la direction du joueur.
--	Case Mur : empêche le joueur d’avancer.
--	Case Boost :  fait avancer le joueur de 1 en plus de l’avancement de sa carte.
--	Case DoubleBoost : fait avancer le joueur de 2 en plus de l’avancement de sa carte.
--	Case Laser : augmente les points de dégâts du joueur de 1, 2 ou 3 selon la clé associée à la case.
--	Case BlackHole : détruit le joueur et le renvoie à son dernier chekcpoint.
--	Case Outils : case de réparation, baisse les points de dégât du joueur de 1, 2 ou 3, selon la clé associée à la case.
+-	*Case Spirale* : change la direction du joueur.
+-	*Case Mur* : empêche le joueur d’avancer.
+-	*Case Boost* :  fait avancer le joueur de 1 en plus de l’avancement de sa carte.
+-	*Case DoubleBoost* : fait avancer le joueur de 2 en plus de l’avancement de sa carte.
+-	*Case Laser* : augmente les points de dégâts du joueur de 1, 2 ou 3 selon la clé associée à la case.
+-	*Case BlackHole* : détruit le joueur et le renvoie à son dernier chekcpoint.
+-	*Case Outils* : case de réparation, baisse les points de dégât du joueur de 1, 2 ou 3, selon la clé associée à la case.
 L’importance des points de dégât et des points de vie est primordiale. 
 Si un joueur perd 1 point de vie, il meurt temporairement et est renvoyé au dernier checkpoint traversé. Au bout de 3 points de vie perdus, le robot est définitivement mort et le joueur éliminé.
 Si un jour possède 10 points de dégâts, alors il perd 1 point de vie. De plus, à partir de 5 points de dégâts, on ne distribue plus que 5 cartes au joueur, donc on ne lui permet plus de choisir les cartes qu’il veut parmi 9 proposées. Et de 6 à 10 points de dégâts, le nombre de carte distribuées au joueur diminue de 1 à 1.
