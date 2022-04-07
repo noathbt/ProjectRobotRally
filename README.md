@@ -1,6 +1,9 @@
 # ProjectRobotRally
+
+## _Présentation :_ 
 Nous avons créé sur Java un jeu roborally qui de base était un jeu de société. Ce dernier se joue de 2 à 4 joueurs, Le but du jeu est d’une part de garder son robot en état de marche, et d’autre part d’être le premier à rallier dans l’ordre 5 checkpoints. 
 
+## _Règles du jeu : _
 Pour se déplacer dans le jeu, chaque joueur recevra 9 cartes de direction et devra en sélectionner 5 qui définiront ainsi son parcours sur le plateau, et ce pour chaque tour. 
 Une fois ces 5 cartes choisies, le premier joueur joue sa première carte, le deuxième joueur sa première carte et ce jusqu’au dernier joueur. L’ordre de passage des joueurs est défini aléatoirement.
 
@@ -20,26 +23,26 @@ Si un jour possède 10 points de dégâts, alors il perd 1 point de vie. De plus
 La joueur qui est passé par le plus de checkpoints gagne.	
 
 
-Liste des technologies :
+## _Liste des technologies :_
 -	Java FX
 -	Modèle MVC
 -	Scène Builder
 -	
 
-Les Bugs :
+## _Les Bugs :_
        -
        -
 
-Source :
+## _Source :_
 -	YouTube
 -	Stackoverflow
 
 
-Comment lancer le jeu :
+## _Comment lancer le jeu :_
 
-Droit d’auteur :
-Alya ZOUZOU
-Audric GIRONDIN
-Noa THEBAULT
-Jonathan DUCKES
-Lucas MARTINEZ
+## _Droit d’auteur :_
+-> Alya ZOUZOU
+-> Audric GIRONDIN
+-> Noa THEBAULT
+-> Jonathan DUCKES
+-> Lucas MARTINEZ
