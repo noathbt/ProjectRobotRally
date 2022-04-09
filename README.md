@@ -31,8 +31,8 @@ La joueur qui est passé par le plus de checkpoints gagne.
 -	Paint.net
 
 ## _Les Bugs :_
-       - Parfois, le message 'Server is ready ne peut pas s'afficher sur la console, cela signifie surement que le port du serveur 
-       est déjà utilisé ou a trop était utilisé. Changer le port dans le fichier Main du serveur et aussi du Client !
+       - Parfois, le message 'Server is ready ne peut pas s'afficher sur la console, cela signifie surement que le port 
+       du serveur est déjà utilisé ou a trop était utilisé. Changer le port dans le fichier Main du serveur et aussi du Client !
        -
 
 ## _Source :_
@@ -42,7 +42,8 @@ La joueur qui est passé par le plus de checkpoints gagne.
 
 ## _Comment lancer le jeu :_
 
-Pour lancer le jeu, il vous suffit de Run le fichier Main du coté "RBR Server", quand le message "Server is ready" s'affiche dans la console. Vous pourriez lancer le fichier Main coté "RBR Clien", vous lancer ce fichier tant de fois que vous désirez de joueur (Max 4). 
+Pour lancer le jeu, il vous suffit de Run le fichier Main du coté "RBR Server", quand le message "Server is ready" s'affiche dans la console. 
+Vous pourriez lancer le fichier Main coté "RBR Clien", vous lancer ce fichier tant de fois que vous désirez de joueur (Max 4). 
 
 ## _Droit d’auteur :_
 -> Alya ZOUZOU
